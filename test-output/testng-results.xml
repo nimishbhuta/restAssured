@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3115" started-at="2020-06-15T17:09:40Z" finished-at="2020-06-15T17:09:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3115" started-at="2020-06-15T17:09:40Z" finished-at="2020-06-15T17:09:43Z">
+      <class name="org.restAssured.tests.covidGetData">
+        <test-method status="PASS" signature="getHighestInfectionCountAndDate()[pri:0, instance:org.restAssured.tests.covidGetData@35851384]" name="getHighestInfectionCountAndDate" duration-ms="2464" started-at="2020-06-15T19:09:40Z" finished-at="2020-06-15T19:09:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getHighestInfectionCountAndDate -->
+        <test-method status="PASS" signature="getHighestDeathCountAndDate()[pri:0, instance:org.restAssured.tests.covidGetData@35851384]" name="getHighestDeathCountAndDate" duration-ms="295" started-at="2020-06-15T19:09:42Z" finished-at="2020-06-15T19:09:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getHighestDeathCountAndDate -->
+        <test-method status="PASS" signature="gettInfectionCountAndDate()[pri:0, instance:org.restAssured.tests.covidGetData@35851384]" name="gettInfectionCountAndDate" duration-ms="344" started-at="2020-06-15T19:09:42Z" finished-at="2020-06-15T19:09:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gettInfectionCountAndDate -->
+      </class> <!-- org.restAssured.tests.covidGetData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
